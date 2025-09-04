@@ -37,7 +37,7 @@ SparkZkart supports user authentication, product management, cart functionality,
 ### Steps
 1. Clone the repositories:
 ```bash
-git clone https://github.com/tharunteja77/E-commerce-website
+git clone https://github.com/sureshNenavath05/E-Commerce-website
 ```
 2. Open VS code / similar IDE and Navigate to the project directory:
 ```bash
